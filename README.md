@@ -50,7 +50,7 @@ The project involved multiple steps:
 - Initial modelling gave moderate results with avergae error with 12-20%.
 - Drift based evaluation of target variable showed that there was both gradual drift and recurrent drifts in data.
 
-![image](https://user-images.githubusercontent.com/96237008/180780206-c9e62b44-ce61-481c-a71d-4580e1a258a9.png)
+- ![image](https://user-images.githubusercontent.com/96237008/180780206-c9e62b44-ce61-481c-a71d-4580e1a258a9.png)
 
 
 - Filterred the target column on basis of dates after which the main drift occured.
