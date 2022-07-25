@@ -26,6 +26,7 @@ The project involved multiple steps:
 1. Restore the data dump to local mongodb server on system.
 2. Verify the documents in Mongo GUI.
 3. Multiple Documents of a single sensor data were present, which had to be stipulated into single columns
+    3.1. <img width="949" alt="Screenshot 2022-07-25 185203" src="https://user-images.githubusercontent.com/96237008/180787805-11a7e404-68eb-446c-9a8b-546b1cefa93d.png">
 4. Furnish a notebook for csv data creation for EDA and modelling preperation.
 
 
