@@ -28,6 +28,8 @@ The project involved multiple steps:
 3. Multiple Documents of a single sensor data were present, which had to be stipulated into single columns
     3.1. <img width="949" alt="Screenshot 2022-07-25 185203" src="https://user-images.githubusercontent.com/96237008/180787805-11a7e404-68eb-446c-9a8b-546b1cefa93d.png">
 4. Furnish a notebook for csv data creation for EDA and modelling preperation.
+5. Sample_sensor_data contains an example of all the features and a part of the data.
+6. Extraction.py script can be easily run to demonstrate how data extraction has been performed from mongodb.
 
 
 ### Feature Analysis
