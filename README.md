@@ -57,3 +57,20 @@ The project involved multiple steps:
 - Filterred the target column on basis of dates after which the main drift occured.
 - Modelling on the new filtter data gave an everage error of 3-7%
 
+### Modelling Result
+|Model| mae | mse | r2|
+|----|----|----|----|
+| Linear regression|0.1608|0.0411|0.5453|
+| XGB regessor| 0.1215| 0.0243| 0.7309 |
+| KNN regressor | 0.115| 0.0217|0.7607|
+
+
+## Acknowledgements
+
+ - [Drifting in data](https://www.analyticsvidhya.com/blog/2021/10/mlops-and-the-importance-of-data-drift-detection/)
+ - [Hyoerparameter tuning](https://www.kaggle.com/code/btyuhas/bayesian-optimization-with-xgboost/notebook)
+ - [KNN regressor](https://www.kaggle.com/code/junkal/selecting-the-best-regression-model/notebook)
+ - [KNN Elbow Method](https://www.analyticsvidhya.com/blog/2018/08/k-nearest-neighbor-introduction-regression-python/)
+
+
+
